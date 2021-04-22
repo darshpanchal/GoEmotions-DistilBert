@@ -7,8 +7,8 @@
 
 
 #### Future:
-- [] Convert to TFLite for mobile devices.
-- [] Deploying model.
+- [ ] Convert to TFLite for mobile devices.
+- [ ] Deploying model.
 
 
 #### References:
